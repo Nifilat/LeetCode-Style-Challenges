@@ -1,6 +1,5 @@
 # JavaScript Objects: LeetCode-Style Challenges
 
-Solutions to problems 1–5 of the AltSchool Africa School of Engineering JavaScript class notes (objects chapter: [slides 295–299](https://javascript.oluwasetemi.dev/295)).
 
 | # | Problem | Difficulty |
 |---|---------|------------|
